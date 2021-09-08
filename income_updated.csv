@@ -1,0 +1,12 @@
+age,ed,occupation,income
+25,11th,Machine-op-inspct,<=50K
+38,HS-grad,Farming-fishing,<=50K
+28,Assoc-acdm,Protective-serv,>50K
+44,Some-college,Machine-op-inspct,>50K
+18,Some-college,Other-service,<=50K
+34,10th,Other-service,<=50K
+29,HS-grad,Other-service,<=50K
+63,Prof-school,Prof-specialty,>50K
+24,Some-college,Other-service,<=50K
+55,7th-8th,Craft-repair,<=50K
+65,HS-grad,Machine-op-inspct,>50K
