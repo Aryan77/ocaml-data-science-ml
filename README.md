@@ -2,7 +2,7 @@
 # OCaml Data Science Library
 
 ## About
-This is a data science + machine learning library for OCaml, mainly intended for people wishing to learn how to implement machine learning algorithms in a functional programming language, and for use in personal projects. The following features are offered:
+This is a data science + machine learning library for OCaml, mainly intended for people wishing to learn how to implement machine learning algorithms in a functional programming language, and for use in personal projects. It combines the most commonly used functionality of the Python data science libraries Numpy, Pandas and Sklearn. The following features are offered:
 
  1. Jupyter frontend for OCaml
  2. Load CSV files
